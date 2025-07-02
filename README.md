@@ -1,4 +1,4 @@
-# 🍽️ Food Ordering App
+# 🍽️ Bite Rush
 
 A modern, full-featured food ordering app built with **Jetpack Compose** and **Firebase**.
 
